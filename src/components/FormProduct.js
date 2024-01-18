@@ -54,7 +54,6 @@ const FormProduct = () => {
             .catch((err) => console.log(err))
     }
 
-    var testdb = "select * from ballDB"
 
 
     return (
